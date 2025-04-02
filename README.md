@@ -2,7 +2,7 @@
 Run installer.bat by double clicking the file.
 
 # Discord instructions:
-- 1. Open discord in your browser. (https://discord.com/app)
+- 1. Open [discord](https://discord.com/app) in your browser.
 - 2. Press ctrl + shift + i.
 - 3. Head to network.
 - 4. Open any server and send a message.
